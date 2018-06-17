@@ -1,5 +1,3 @@
-# CloudControlWorkshop-2018
-
 # This repository holds content for presenation "Operational analytics at cloud grade"
 
 ## The presenation was part of a discussion session in - 13th Cloud Control Workshop - June 2018
