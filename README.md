@@ -2,7 +2,7 @@
 
 # This repository holds content for presenation "Operational analytics at cloud grade"
 
-## The demo was presented as part of 13th Cloud Control Workshop - June 2018
+## The presenation was part of a discussion session in - 13th Cloud Control Workshop - June 2018
 
 ## Content
 
